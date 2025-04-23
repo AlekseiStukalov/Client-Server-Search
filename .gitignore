@@ -21,6 +21,8 @@
 *.smod
 
 # Compiled Static libraries
+Server/build/*
+Client/build/*
 *.lai
 *.la
 *.a
@@ -30,3 +32,10 @@
 *.exe
 *.out
 *.app
+/jbha_client
+/jbha_server
+/config.json
+
+
+*.DS_Store
+.vscode/*
